@@ -294,5 +294,5 @@ LOGO: color and font suggestion: [ChatGPT](https://chat.openai.com), logo font: 
 
 All the copyrights of the demo images and audio are from community users or the generation from stable diffusion. Feel free to contact us if you would like use to remove them.
 
-
+Youtube: https://youtu.be/yEkLEm-10Mw?si=Xu3D_qwAR2YQ16S7
 <!-- Spelling fixed on Tuesday, September 12, 2023 by @fakerybakery (https://github.com/fakerybakery). These changes are licensed under the Apache 2.0 license. -->
